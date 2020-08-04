@@ -17,7 +17,7 @@ You can check out my projects and work by visiting [my portfolio](http://lucasfe
   <div align="right" style="text-align: center">
 
   <br />
-  
+  <br />
   <br />
   
   [![GitHub followers](https://img.shields.io/github/followers/lucasmedeiros?label=Github&style=flat-square)](https://github.com/lucasmedeiros)
