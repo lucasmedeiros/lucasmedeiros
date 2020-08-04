@@ -16,6 +16,6 @@ Currently, my main development stack is **Node.js**, **ReactJS** and **Typescrip
 [![Linkedin: lucasmnf](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasmnf/)](https://www.linkedin.com/in/lucasmnf/)
 [![Twitter: _lucasmnf](https://img.shields.io/twitter/follow/_lucasmnf?style=social)](https://twitter.com/_lucasmnf)
 
-<img align='left' alt='Github Stats' src='https://github-readme-stats.vercel.app/api?username=lucasmedeiros&show_icons=true&theme=radical' title='GitHub Stats' width='500' height='290'/>
+<img align='left' alt='Github Stats' src='https://github-readme-stats.vercel.app/api?username=lucasmedeiros&hide=issues&show_icons=true&theme=radical' title='GitHub Stats' />
 
 </div>
