@@ -10,12 +10,16 @@ I'm Lucas de Medeiros, an undergraduate student in Computer Science at Universid
 
 You can check out my projects and work by visiting [my portfolio](http://lucasfernandes.me/projects), my **pins** below or browsing my [Github repositories](https://github.com/lucasmedeiros?tab=repositories).
 
+
+### My Github Stats
+  
+[![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=lucasmedeiros&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="right">
+  
 [![GitHub followers](https://img.shields.io/github/followers/lucasmedeiros?label=Github&style=flat-square)](https://github.com/lucasmedeiros)
 [![Linkedin: lucasmnf](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasmnf/)](https://www.linkedin.com/in/lucasmnf/)
 [![Twitter: _lucasmnf](https://img.shields.io/twitter/follow/_lucasmnf?style=social)](https://twitter.com/_lucasmnf)
-
-
-### My Github Stats
-
-[![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=lucasmedeiros&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
 </div>
