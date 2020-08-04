@@ -9,9 +9,6 @@
 I'm Lucas de Medeiros, an undergraduate student in Computer Science at Universidade Federal de Campina Grande (UFCG). I'm absolutely in love with **Web Development** (frontend and backend), football :soccer: , movies :cinema: and games :video_game:!
 
 You can check out my projects and work by visiting [my portfolio](http://lucasfernandes.me/projects), my **pins** below or browsing my [Github repositories](https://github.com/lucasmedeiros?tab=repositories).
-
-
-### My Github Stats
   
 <div>
 
