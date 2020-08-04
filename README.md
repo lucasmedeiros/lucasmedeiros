@@ -1,5 +1,5 @@
 <div>
-<img align="right" src="https://i.imgur.com/AuMxVNk.jpg" style="margin-right: 2rem;"width="280" />
+<img align="right" src="https://i.imgur.com/AuMxVNk.jpg" width="280" />
 
 ## Hey, I'm Lucas :)
 
@@ -12,9 +12,11 @@ Currently, my main development stack is **Node.js**, **ReactJS** and **Typescrip
 
 ### Contact me
 
-[![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:lucasmed812@gmail.com)
+[![Email: lucasmedeiros@gmail.com](https://img.shields.io/badge/-Mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasmed812@gmail.com)](mailto:lucasmed812@gmail.com)
 [![Linkedin: lucasmnf](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasmnf/)](https://www.linkedin.com/in/lucasmnf/)
-[![Twitter: _lucasmnf](https://img.shields.io/twitter/follow/_lucasmnf?style=social)](https://twitter.com/_lucasmnf)
+[![Twitter: _lucasmnf](https://img.shields.io/badge/-Twitter-424B54.svg?style=flat-square&logo=twitter&logoColor=FFFFFF&color=009FFD)](https://twitter.com/_lucasmnf)
+[![Dev.to: lukehxh](https://img.shields.io/badge/-Posts-424B54.svg?style=flat-square&logo=Dev.to&logoColor=FFFFFF&color=424B54)](https://dev.to/lukehxh)
+[![Youtube](https://img.shields.io/badge/-Videos-424B54.svg?style=flat-square&logo=youtube&logoColor=FFFFFF&color=BC2C1A)](https://www.youtube.com/channel/UCLlxw0ys56q3t0JJhPOw4-w/videos)
 
 <img align='left' alt='Github Stats' src='https://github-readme-stats.vercel.app/api?username=lucasmedeiros&hide=issues&show_icons=true&theme=radical' title='GitHub Stats' />
 
