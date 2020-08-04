@@ -1,3 +1,4 @@
+<div>
 <img align="right" src="https://i.imgur.com/AuMxVNk.jpg" style="margin-right: 2rem;"width="300" />
 
 ## Hey, I'm Lucas :)
@@ -17,3 +18,4 @@ You can check out my projects and work by visiting [my portfolio](http://lucasfe
 ### My Github Stats
 
 [![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=lucasmedeiros&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</div>
