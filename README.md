@@ -9,12 +9,8 @@
 I'm Lucas de Medeiros, an undergraduate student in Computer Science at Universidade Federal de Campina Grande (UFCG). I'm absolutely in love with **Web Development** (frontend and backend), football :soccer: , movies :cinema: and games :video_game:!
 
 You can check out my projects and work by visiting [my portfolio](http://lucasfernandes.me/projects), my **pins** below or browsing my [Github repositories](https://github.com/lucasmedeiros?tab=repositories).
-  
-<div>
 
-  <img align='left' alt='Github Stats' src='https://github-readme-stats.vercel.app/api?username=lucasmedeiros&show_icons=true&theme=radical' title='GitHub Stats' width='500' height='290'/>
-
-  <div align="right" style="text-align: center">
+<div align="right" style="text-align: center">
 
   <br />
   <br />
@@ -23,8 +19,6 @@ You can check out my projects and work by visiting [my portfolio](http://lucasfe
   [![GitHub followers](https://img.shields.io/github/followers/lucasmedeiros?label=Github&style=flat-square)](https://github.com/lucasmedeiros)
   [![Linkedin: lucasmnf](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasmnf/)](https://www.linkedin.com/in/lucasmnf/)
   [![Twitter: _lucasmnf](https://img.shields.io/twitter/follow/_lucasmnf?style=social)](https://twitter.com/_lucasmnf)
-
-  </div>
 
 </div>
 </div>
