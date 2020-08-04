@@ -15,14 +15,12 @@ You can check out my projects and work by visiting [my portfolio](http://lucasfe
   
 <div>
 
-  <div align="left">
+  <img align='left' alt='Github Stats' src='https://github-readme-stats.vercel.app/api?username=lucasmedeiros&show_icons=true&theme=radical' title='GitHub Stats' width='500' height='290'/>
 
-  [![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=lucasmedeiros&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  <div align="right" style="text-align: center">
 
-  </div>
-
-  <div align="right">
-
+  <br />
+  
   [![GitHub followers](https://img.shields.io/github/followers/lucasmedeiros?label=Github&style=flat-square)](https://github.com/lucasmedeiros)
   [![Linkedin: lucasmnf](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasmnf/)](https://www.linkedin.com/in/lucasmnf/)
   [![Twitter: _lucasmnf](https://img.shields.io/twitter/follow/_lucasmnf?style=social)](https://twitter.com/_lucasmnf)
