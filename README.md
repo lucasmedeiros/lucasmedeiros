@@ -10,6 +10,8 @@ I'm Lucas de Medeiros, an undergraduate student in Computer Science at Universid
 
 You can check out my projects and work by visiting [my portfolio](http://lucasfernandes.me/projects), my **pins** below or browsing my [Github repositories](https://github.com/lucasmedeiros?tab=repositories).
 
+<img align='left' alt='Github Stats' src='https://github-readme-stats.vercel.app/api?username=lucasmedeiros&show_icons=true&theme=radical' title='GitHub Stats' width='500' height='290'/>
+
 <div align="right" style="text-align: center">
 
   <br />
