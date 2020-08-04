@@ -10,8 +10,6 @@ I'm Lucas de Medeiros, an undergraduate student in Computer Science at Universid
 
 Currently, my main development stack is **Node.js**, **ReactJS** and **Typescript**, but I'm also familiar with **Python**, **Java** and starting with **GoLang**. You can check out my projects and work by visiting [my portfolio](http://lucasfernandes.me/projects), my **pins** below or browsing my [Github repositories](https://github.com/lucasmedeiros?tab=repositories).
 
-### Contact me
-
 [![Email: lucasmedeiros@gmail.com](https://img.shields.io/badge/-Mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasmed812@gmail.com)](mailto:lucasmed812@gmail.com)
 [![Linkedin: lucasmnf](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasmnf/)](https://www.linkedin.com/in/lucasmnf/)
 [![Twitter: _lucasmnf](https://img.shields.io/badge/-Twitter-424B54.svg?style=flat-square&logo=twitter&logoColor=FFFFFF&color=009FFD)](https://twitter.com/_lucasmnf)
