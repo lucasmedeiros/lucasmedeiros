@@ -7,7 +7,9 @@
 
 I'm Lucas de Medeiros, an undergraduate student in Computer Science at Universidade Federal de Campina Grande (UFCG). I'm absolutely in love with **Web Development** (frontend and backend), football :soccer: , movies :cinema: and games :video_game:!
 
-Currently, my main development stack is **Node.js**, **ReactJS** and **Typescript**, but I'm also familiar with **Python**, **Java** and starting with **GoLang**. You can check out my projects and work by visiting [my portfolio](http://lucasfernandes.me/projects), my **pins** below or browsing my [Github repositories](https://github.com/lucasmedeiros?tab=repositories).
+Currently, my main development stack is **Node.js**, **ReactJS** and **Typescript**, but I'm also familiar with **Python**, **Java** and starting with **GoLang**.
+
+Check out [my projects and work](http://lucasfernandes.me/projects).
 
 [![Email: lucasmedeiros@gmail.com](https://img.shields.io/badge/-Mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasmed812@gmail.com)](mailto:lucasmed812@gmail.com)
 [![Linkedin: lucasmnf](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasmnf/)](https://www.linkedin.com/in/lucasmnf/)
