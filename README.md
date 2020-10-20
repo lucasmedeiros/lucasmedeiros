@@ -3,7 +3,7 @@
 
 ## Hey, I'm Lucas :)
 
-*Software Developer at [VTEX / SPLab](https://portal.ufcg.edu.br/em-dia/1457-vtex-investe-em-pesquisas-na-ufcg-e-contrata-bolsistas.html)*  
+*Software Developer at [VTEX Lab](https://lab.vtex.com/home/)*  
 
 I'm Lucas de Medeiros, an undergraduate student in Computer Science at Universidade Federal de Campina Grande (UFCG). I'm absolutely in love with **Web Development** (frontend and backend), football :soccer: , movies :cinema: and games :video_game:!
 
