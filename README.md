@@ -3,8 +3,6 @@
 
 ## Hey, I'm Lucas :)
 
-*Software Developer at [VTEX Lab](https://lab.vtex.com/home/)*  
-
 I'm Lucas de Medeiros, an undergraduate student in Computer Science at Universidade Federal de Campina Grande (UFCG). I'm absolutely in love with **Web Development** (frontend and backend), football :soccer: , movies :cinema: and games :video_game:!
 
 Currently, my main development stack is **NodeJS**, **ReactJS** and **Typescript**, but I'm also familiar with **Python**, **Java** and starting with **GoLang** and **Elixir**.
