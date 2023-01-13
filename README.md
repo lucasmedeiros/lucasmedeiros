@@ -3,7 +3,7 @@
 
 ## Hey, I'm Lucas :)
 
-I'm Lucas de Medeiros, an undergraduate student in Computer Science at Universidade Federal de Campina Grande (UFCG). I'm absolutely in love with **Web Development** (frontend and backend), football :soccer: , movies :cinema: and games :video_game:!
+I'm Lucas de Medeiros, a Computer Science bachelor by Universidade Federal de Campina Grande (UFCG) and Software Engineer at VTEX. I'm absolutely in love with **Web Development** (frontend and backend), football :soccer: , movies :cinema: and games :video_game:!
 
 Currently, my main development stack is **.Net Framework** and **.Net Core** with **C#**, but I'm also familiar with **NodeJS** and **ReactJS** with **Typescript**, **Python** and **Java**!
 
