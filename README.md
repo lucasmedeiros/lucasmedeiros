@@ -5,7 +5,7 @@
 
 I'm Lucas de Medeiros, an undergraduate student in Computer Science at Universidade Federal de Campina Grande (UFCG). I'm absolutely in love with **Web Development** (frontend and backend), football :soccer: , movies :cinema: and games :video_game:!
 
-Currently, my main development stack is **NodeJS** and **ReactJS** with **Typescript** and **.Net Framework** and **.Net Core** with **C#**, but I'm also familiar with **Python** and **Java**!
+Currently, my main development stack is **.Net Framework** and **.Net Core** with **C#**, but I'm also familiar with **NodeJS** and **ReactJS** with **Typescript**, **Python** and **Java**!
 
 Check out [my projects and work](https://lucasmedeiros.github.io/projects).
 
